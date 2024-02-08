@@ -6,5 +6,4 @@
 
 
 ## Screenshot
-
-![Screenshot of above steps](<Screenshot 2024-02-08 at 20.41.23.png>)
+![Completion Screenshot of above steps](<materials/Screenshot 2024-02-08 at 20.41.23.png>)
